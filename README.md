@@ -3,7 +3,7 @@
 1. [Enum Type Typescript](#1-Enum-Type-Typescript)
 2. [Any Type](#2-Any-Type)
 3. [Object Array](#3-object-array)
-4. [Custom TYpe](#4-custom-type)
+4. [Custom TYpe](#-custom-type)
 
 ## 1.Enum Type Typescript
 
