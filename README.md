@@ -1,6 +1,7 @@
 # typescript
 
 [Enum Type Typescript](#1-Enum-Type-Typescript)
+[Any Type](#1-Any-Type)
 
 ## Enum Type Typescript
 
