@@ -1,4 +1,4 @@
-# typescript
+## typescript
 
 1. [Enum Type Typescript](#1-Enum-Type-Typescript)
 2. [Any Type](#2-Any-Type)
@@ -34,6 +34,8 @@ console.log(shihab);
 ```
 
 ## 3. Object Array
+
+[typescript](#typescript)
 
 ```
 let objectArray: object[];
