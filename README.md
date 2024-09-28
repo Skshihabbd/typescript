@@ -63,7 +63,7 @@ for (let index in objectArray) {
 
 ```
 
-## 5. Custom TYpe
+## 4. Custom TYpe
 
 [typescript](#typescript)
 
