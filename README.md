@@ -2,7 +2,7 @@
 
 1. [Enum Type Typescript](#1-Enum-Type-Typescript)
 2. [Any Type](#2-Any-Type)
-3. [Object Array](#3-object-array)
+3. [Object Array](#Object-Array)
 
 ## 1.Enum Type Typescript
 
@@ -33,7 +33,7 @@ console.log(shihab);
 
 ```
 
-## 3.Object Array
+# 3.Object Array
 
 ```
 let objectArray: object[];
