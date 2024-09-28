@@ -1,6 +1,8 @@
 # typescript
 
-<li> # Enum Type Typescript</li>
+[Enum Type Typescript](#1-Enum-Type-Typescript)
+
+## Enum Type Typescript
 
 ```
 // this is a mixed enum type
