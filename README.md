@@ -1,7 +1,7 @@
 # typescript
 
-[Enum Type Typescript](#1-Enum-Type-Typescript)
-[Any Type](#1-Any-Type)
+1. [Enum Type Typescript](#1-Enum-Type-Typescript)
+2. [Any Type](#2-Any-Type)
 
 ## Enum Type Typescript
 
@@ -18,7 +18,7 @@ console.log(mixedType);
 
 ```
 
-1.Any Type
+## 2. Any Type
 
 ```
 // any type where you can not define specific  data type
